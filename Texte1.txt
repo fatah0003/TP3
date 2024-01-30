@@ -2,4 +2,3 @@ Comment est votre Blanquette ?
 HEAD
 On va mangr des chips
 
- parent of 57cb525 (second text)
